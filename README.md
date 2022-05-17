@@ -1,1 +1,2 @@
-# Machine-Learning
+# DT-DecisionTree
+# LR-LogisticRegression
